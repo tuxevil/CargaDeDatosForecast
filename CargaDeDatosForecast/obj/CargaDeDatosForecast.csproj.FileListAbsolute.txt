@@ -1,0 +1,8 @@
+C:\Documents and Settings\sebastian.real\Mis documentos\Visual Studio 2005\Projects\CargaDeDatosForecast\CargaDeDatosForecast\bin\Debug\CargaDeDatosForecast.exe
+C:\Documents and Settings\sebastian.real\Mis documentos\Visual Studio 2005\Projects\CargaDeDatosForecast\CargaDeDatosForecast\bin\Debug\CargaDeDatosForecast.pdb
+C:\Documents and Settings\sebastian.real\Mis documentos\Visual Studio 2005\Projects\CargaDeDatosForecast\CargaDeDatosForecast\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sebastian.real\Mis documentos\Visual Studio 2005\Projects\CargaDeDatosForecast\CargaDeDatosForecast\obj\Debug\CargaDeDatosForecast.Form1.resources
+C:\Documents and Settings\sebastian.real\Mis documentos\Visual Studio 2005\Projects\CargaDeDatosForecast\CargaDeDatosForecast\obj\Debug\CargaDeDatosForecast.Properties.Resources.resources
+C:\Documents and Settings\sebastian.real\Mis documentos\Visual Studio 2005\Projects\CargaDeDatosForecast\CargaDeDatosForecast\obj\Debug\CargaDeDatosForecast.csproj.GenerateResource.Cache
+C:\Documents and Settings\sebastian.real\Mis documentos\Visual Studio 2005\Projects\CargaDeDatosForecast\CargaDeDatosForecast\obj\Debug\CargaDeDatosForecast.exe
+C:\Documents and Settings\sebastian.real\Mis documentos\Visual Studio 2005\Projects\CargaDeDatosForecast\CargaDeDatosForecast\obj\Debug\CargaDeDatosForecast.pdb
